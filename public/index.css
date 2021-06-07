@@ -1,0 +1,14 @@
+
+.green_button {
+    background-color: #5a8c8c;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
